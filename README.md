@@ -1,6 +1,12 @@
 <img align='center' src='https://github.com/AleksandrMaj/AleksandrMaj/blob/main/Github-Banner.gif' width='100%'>
 
 <div align='center'>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&weight=600&size=40&duration=3000&pause=2000&color=1ABB56&center=true&vCenter=true&width=650&lines=Welcome+on+my+GitHub+profile!)](https://git.io/typing-svg)
+
+</div>
+  
+<div align='center'>
 
   ![](https://komarev.com/ghpvc/?username=AleksandrMaj&color=brightgreen&label=VISITORS)
   
